@@ -74,11 +74,15 @@ footer-text: Copyright (c) 2020 茄汁浇饭
 #
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
+
 gitalk: 
-  clientID: 3289b76c66276009aa85
-  clientSecret: 0afd3f31b11eb4927adf8e6adc21f67377153e6b
-  repo: Ketchup
-  owner: onemorebluemoon
+enable: true #是否开启
+  githubID: onemorebluemoon #你的Github用户名
+  repo: Ketchup.github.io #Github仓库名称
+  ClientID: 3289b76c66276009aa85 #创建的Application ClientID
+  ClientSecret: 0afd3f31b11eb4927adf8e6adc21f67377153e6b #创建的Application ClientSecret
+  adminUser: onemorebluemoon # 评论初始化账户(GitHub ID)
+  distractionFreeMode: true # 是否开启分心自由模式 也就是免打扰
 
 # 输入Google Analytics web tracking code
 google_analytics:
