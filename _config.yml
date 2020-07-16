@@ -74,10 +74,10 @@ footer-text: Copyright (c) 2020 茄汁浇饭
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
+gitalk: 
   clientID: 3289b76c66276009aa85
   clientSecret: eb78048b281f8b31e218736640ab7ecb78aae35f
   repo: 茄汁浇饭
