@@ -75,6 +75,7 @@ footer-text: Copyright (c) 2020 茄汁浇饭
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk: 
+  enable: true
   clientID: 3289b76c66276009aa85
   clientSecret: 0afd3f31b11eb4927adf8e6adc21f67377153e6b
   repo: Ketchup.github.io
