@@ -78,7 +78,7 @@ gitalk:
   clientID: 3289b76c66276009aa85
   clientSecret: 0afd3f31b11eb4927adf8e6adc21f67377153e6b
   repo: Ketchup
-  owner: 茄汁浇饭
+  owner: onemorebluemoon
 
 # 输入Google Analytics web tracking code
 google_analytics:
