@@ -11,12 +11,12 @@ name: 茄汁浇饭
 description: 茄是番茄的茄
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: https://onemorebluemoon.github.io/ketchup/
+url: https://onemorebluemoon.github.io/Ketchup/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /ketchup
+baseurl: /Ketchup
 
 
 #
