@@ -79,6 +79,7 @@ gitalk:
   clientSecret: 0afd3f31b11eb4927adf8e6adc21f67377153e6b
   repo: Ketchup.github.io
   owner: onemorebluemoon
+  admin: onemorebluemoon
 
 # 输入Google Analytics web tracking code
 google_analytics:
