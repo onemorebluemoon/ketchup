@@ -45,14 +45,14 @@ navigation:
 paginate: 10
 
 # 文章简介的区分标记
-excerpt_separator: <!-- 更多 -->
+excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
   weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: ombm1995@outlook.com
+  email: 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: #https://github.com/<>
