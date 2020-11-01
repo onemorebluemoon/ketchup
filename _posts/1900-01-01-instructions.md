@@ -11,4 +11,4 @@ pinned: true
 
 粮仓。评论比较麻烦，索性关了。
 
-顺便放一下提问箱，有什么想要夸我的冲[这里](https://www.popiapp.cn/HIc3DE)来。
+有什么想要夸我的冲[这里](https://www.popiapp.cn/HIc3DE)来。
